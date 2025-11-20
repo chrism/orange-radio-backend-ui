@@ -10,7 +10,7 @@ The UI is based closely on the [Boosted](https://boosted.orange.com/) Orange bra
 
 There is some very limited build tooling required and the built screens are located in the `/docs` directory which is also published to Github Pages.
 
-They can be [viewed online from an index screen here](http://chrism.github.io/orange-radio-cms-static/)
+They can be [viewed online from an index screen here](http://chrism.github.io/orange-radio-backend-ui/)
 
 ## Build Tooling
 
@@ -31,8 +31,8 @@ My recommendation would be to take the HTML where possible from the source files
 If you want to run this locally assuming you have [NPM](https://www.npmjs.com/) and [Parcel](https://parceljs.org/) installed already it should be as straightforward as
 
 ```
-git clone git@github.com:chrism/orange-radio-cms-static.git
-cd orange-radio-cms-static
+git clone git@github.com:chrism/orange-radio-backend-ui.git
+cd orange-radio-backend-ui
 npm install
 ```
 
